@@ -1,0 +1,2 @@
+BB Repo,BB Org,GH Repo,GH Org,Description,Private,Archive,Team,Permission
+repo-name,org-name,repo-name,org-name,my description,yes,yes,team-name,[one of: pull, push, admin, maintain, triage]
